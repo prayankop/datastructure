@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+#sort{
+    display: none;
+}
+input{
+    margin: 10px;
+}
+button{
+    margin: 10px;
+}
